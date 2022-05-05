@@ -7,5 +7,3 @@ php 获取 [cn.bing.com](https://cn.bing.com/) 每日壁纸，demo：https://bin
 bing-1080p.php：获取 1080p 分辨率
 
 bing-uhd.php：获取 UHD 分辨率
-
-![Bing Wallpaper](https://bing.cencs.com/hd/bing.jpg)
